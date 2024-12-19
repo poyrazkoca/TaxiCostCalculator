@@ -1,8 +1,8 @@
-TaxiCost Java Program
-Overview
+# TaxiCost Java Program #
+# Overview
 The TaxiCost program calculates the total cost of a taxi fare for a trip and the cost per person if multiple people are sharing the trip. The program takes user input for trip details and performs validations to ensure appropriate input values.
 
-Features
+# Features
 Calculates total fare based on:
 Opening fare: 35 ₺
 Price per kilometer: 25 ₺
